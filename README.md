@@ -7,6 +7,7 @@
 ### 🎯 Sobre Mim
 Atualmente focado em desenvolvimento de baixo nível e segurança. Gosto de entender como o software interage com o hardware.
 
+- 📚  **Estudo Autónomo**
 - 🔍 Estudando **Engenharia Reversa** e **Malware Analysis**
 - 🐍 Automatizando o mundo com **Python**
 
@@ -23,5 +24,9 @@ Atualmente focado em desenvolvimento de baixo nível e segurança. Gosto de ente
 ---
 
 ### 🎓 Education
+
+- 📚  **Estudo Autónomo**
+- 📚 Python
+- 📚 C++ e Estrutura de Dados
 - 📚 Engenharia Reversa
-- 📚 C++ Avançado e Estrutura de Dados
+
