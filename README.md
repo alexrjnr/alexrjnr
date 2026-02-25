@@ -1,4 +1,4 @@
-# Olá,sou o Budda .
+# Olá,Prazer me chamo Alex R. junior ( Budda ) .
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=150&section=header&text=Software%20Engineer&fontSize=40" />
